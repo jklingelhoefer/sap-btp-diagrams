@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T04:57:07.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="vUHPzg4uR1ERgsQfLWnZ" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T04:57:48.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6KOa4KDTgIubjdMGTq-y" version="24.2.1" type="github">
   <diagram name="Page-1" id="52So7O7gCRZ_WB25PWDG">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,11 +208,11 @@
         <mxCell id="tfpzZ90mcot24gfhM4vj-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="490" width="870" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E3rKdLnavc9v0Z9FRh---55" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Remark: Integration Suite supports a large variety of connectivity ways with sender/receiver either on cloud or not, including adapters, open connectors, and&lt;div&gt;&amp;nbsp;SAP cloud connector which is specifically used for on-premise system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SAP Integration Suite offers different options to transport integration contents, including manual export/import or via auto Transport Management Service.&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelPosition=center;align=left;labelBackgroundColor=#FFFFFF;" parent="tfpzZ90mcot24gfhM4vj-47" vertex="1">
+        <mxCell id="E3rKdLnavc9v0Z9FRh---55" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Remark:&amp;nbsp;&lt;div&gt;1. Integration Suite supports a large variety of connectivity ways with sender/receiver either on cloud or not, including adapters, open connectors, and&lt;div&gt;&amp;nbsp;SAP cloud connector which is specifically used for on-premise system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. SAP Integration Suite offers different options to transport integration contents, including manual export/import or via auto Transport Management Service.&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelPosition=center;align=left;labelBackgroundColor=#FFFFFF;" parent="tfpzZ90mcot24gfhM4vj-47" vertex="1">
           <mxGeometry width="870" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tfpzZ90mcot24gfhM4vj-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="tfpzZ90mcot24gfhM4vj-47">
-          <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
+          <mxGeometry x="10" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tfpzZ90mcot24gfhM4vj-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.989;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E3rKdLnavc9v0Z9FRh---12" target="E3rKdLnavc9v0Z9FRh---21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
